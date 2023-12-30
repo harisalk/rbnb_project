@@ -1,2 +1,2 @@
 # rbnb_project
-demo repo
+data visualization and Kmeans for Airbnb listings in Athens
